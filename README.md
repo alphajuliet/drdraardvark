@@ -1,2 +1,1 @@
-# drdraardvark
-Home page for DrDrAardvark on glitch.com
+Home page for DrDrAardvark.

@@ -1,0 +1,104 @@
+/*
+ * dda2.css -- white background
+ */
+
+body {
+	font-family: Bank Gothic, Futura, Tahoma, sans-serif;
+	font-size: 11pt;
+	color: #333;
+	background-color: #fff;
+	margin: 1cm 10% 2cm 20%;
+	width: 60%;
+	padding: 10px;
+}
+
+.small {
+	font-size: 85%;
+}
+
+a { color: #333; }
+
+ol { list-style-type: decimal-leading-zero; }
+
+#header {
+
+}
+
+#container {
+
+}
+
+#container h1 {
+	font-size: 120%;
+}
+
+div#tracklist {
+	margin: 4em 0 4em 2em;
+}	
+
+div.set_header {
+	border-left: 10px solid #333;
+	padding: 5px 0.5em;
+}
+
+div.set_header:hover {
+	color: #666;
+	border-left: 10px solid #99f;
+}
+
+div.set_header p {
+	cursor: pointer;
+	margin: 0;
+}
+
+div.set_body {
+	width: 75%;
+	background-color: #eee;
+	padding: 5px;
+	margin: 5px 1em;
+}
+
+div.set_body ol a {
+	padding: 2px 2px 2px 0.5em;
+	border-left: 10px solid #333;
+}
+
+div.set_body ol a:hover {
+	color: #666;
+	border-left: 10px solid #99f;
+}
+
+img.artwork {
+	float: right;
+	margin: 5px;	
+}
+
+img.icon {
+	border: none;
+	float: right;
+	height: 24px;
+	margin-left: 5px;
+}
+
+.license {
+	font-size: 80%;
+	color: #333;
+	width: 60%;
+	margin: 3em 0em;
+	background-color: #eee;
+	padding: 5px;
+}
+
+img#license {
+	float:left; 
+	margin-right: 1em;
+}
+
+#footer {
+	width: 60%;
+	font-size: 70%;
+	border-top: solid 1px #222;
+	margin-top: 2em;
+}
+
+/* The End */

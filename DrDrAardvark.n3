@@ -1,0 +1,44 @@
+# DrDrAardvark metadata
+# AndrewJ/Dr Dr Aardavark
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix cc: <http://web.resource.org/cc/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+
+@prefix ajppl: <http://alphajuliet.com/ns/people#> .
+@prefix dda: <http://drdraardvark.com/data/> .
+@prefix trk: <http://drdraardvark.com/data/track/> .
+
+#--------------------
+
+# Describe this document
+<> a foaf:Document;
+	dc:title "DrDrAardvark";
+	dc:description "Metadata about the artist Dr Dr Aardvark";
+	dc:created "2007-04-25"^^xsd:date;
+	foaf:maker ajppl:AndrewJ;
+	foaf:primaryTopic dda:DrDrAardvark;
+	dc:language "en".
+
+#--------------------
+# The artist
+ajppl:AndrewJ a mo:MusicalArtist.
+	
+#--------------------
+# The group
+dda:DrDrAardvark 
+	a mo:MusicGroup;
+	foaf:name "Dr Dr Aardvark" ;
+	foaf:homepage <http://drdraardvark.com/> ;
+	rdfs:seeAlso <http://drdraardvark.com/data/dda-albums.n3> ;
+	foaf:member ajppl:AndrewJ .
+
+# The End

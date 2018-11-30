@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	atom.xml
+	Updates to music on http://drdraardvark.com/.
+-->
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>dr dr aardvark music</title>
+	<subtitle>My musical output</subtitle>
+	<link href="http://drdraardvark.com/" type="application/xhtml+xml"/>
+	<link href="http://drdraardvark.com/atom.xml" type="application/atom+xml" rel="self"/>
+	<id>http://alphajuliet.com/#music</id>
+	<updated>2008-05-07T00:00:00Z</updated>
+	
+	<author>
+		<name>andrewj</name>
+	</author>
+	
+	<entry>
+		<title>Telekom</title>
+		<id>tag:alphajuliet.com,2009-12-18:Telekom</id>
+		<updated>2009-12-18T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://alphajuliet.com/#music"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>An attempt at dubstep.</p>
+			</div>
+		</content>
+		<link rel="enclosure" type="audio/mpeg" length="7519122" href="http://alphajuliet.com/music/Telekom.mp3"/>
+	</entry>
+	
+	<entry>
+		<title>Derivative</title>
+		<id>tag:alphajuliet.com,2008-10-18:Derivative</id>
+		<updated>2008-10-18T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Another historical collection, this time from my period in the UK, living mainly in Manchester.  I was working lots, living on my own, and coming home in the evening to make music, with less equipment but more focus.  It has a slightly reflective feel, and more in a house-y vein than other collections, although still with some ambient and d&amp;b influences, too many to name. <em>Snow at Easter</em> actually happened.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/SnowAtEaster.mp3"/>
+			</div>
+		</content>	
+	</entry>
+	
+	<entry>
+		<title>Astralux</title>
+		<id>tag:alphajuliet.com,2008-10-18:Astralux</id>
+		<updated>2008-10-18T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>An album from the past, at a particular time of my life.  This is a collection of longer, more ambient, and possibly more indulgent tracks that let it all out. Strong influences from Global Communication, Woob, Future Sound of London, and others.  In many ways, my favourite and possibly best collection.  At a respectable 14m39s, <em>Aerobic</em> is perhaps the highlight.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Aerobic.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Aerosol</title>
+		<id>tag:alphajuliet.com,2008-08-03:Aerosol</id>
+		<updated>2008-08-03T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>I'm finding it hard to categorise this one. A bit of everything, including guitar.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Aerosol.mp3"/>
+			</div>
+		</content>
+	</entry>	
+	
+	<entry>
+		<title>Le Revard</title>
+		<id>tag:alphajuliet.com,2008-05-24:LeRevard</id>
+		<updated>2008-05-24T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Another atmospheric drum&amp;bass track, with birds and chords.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/LeRevard.mp3"/>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Cognin</title>
+		<id>tag:alphajuliet.com,2008-05-06:Cognin</id>
+		<updated>2008-05-06T00:02:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>More d&amp;b fun</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Cognin.mp3"/>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Biollay</title>
+		<id>tag:alphajuliet.com,2008-03-05:Biollay</id>
+		<updated>2008-03-05T00:02:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Guitars!</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Biollay.mp3"/>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Thorium</title>
+		<id>tag:alphajuliet.com,2008-01-06:Thorium</id>
+		<updated>2008-01-06T00:02:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>More psychedelic electronica, but a little more techno.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Thorium.mp3"/>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Nickel</title>
+		<id>tag:alphajuliet.com,2008-01-06:Nickel</id>
+		<updated>2008-01-06T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Psychedelic electronica.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Nickel.mp3"/>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Prime</title>
+		<id>tag:alphajuliet.com,2007-12-13:Prime</id>
+		<updated>2007-12-13T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Deep, hard techno.  Nothing more, nothing less.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Prime.mp3"/>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Tools for Success</title>
+		<id>tag:alphajuliet.com,2007-11-26:ToolsForSuccess</id>
+		<updated>2007-11-26T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>A loop-driven house track, that sounds a bit like a mix because it keeps changing.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/ToolsForSuccess.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Mold</title>
+		<id>tag:alphajuliet.com,2007-11-26:Mold</id>
+		<updated>2007-11-26T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>A short mellow and melodic track, with a nod to the Plaid boys.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Mold.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Plaster</title>
+		<id>tag:alphajuliet.com,2007-09-11:Plaster</id>
+		<updated>2007-09-11T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>An obvious and direct nod to the legendary Richard H. Kirk -- a legend at least in my house.  
+				It's a long track at over ten minutes, but the repetition takes time to develop and sink in.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Plaster.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Demons</title>
+		<id>tag:alphajuliet.com,2007-09-11:Demons</id>
+		<updated>2007-09-11T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>A harder drum&amp;bass track, inspired by a recent immersive descent into the d&amp;b scene, particularly
+				the artists at Hospital Records in the UK.  D&amp;B has a real edge to it sometimes, but can also be playful 
+				and light-hearted, all within a similar structure.  This is an attempt to cultivate something on the darker side.</p>
+				<link rel="enclosure" type="audio/mpeg" href="http://alphajuliet.com/music/Demons.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Luminous Sands of Time</title>
+		<id>tag:alphajuliet.com,2007-07-30:Luminous</id>
+		<updated>2007-07-30T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Another one from the archive, from 1997. Turn down the lights, lie with your head between the speakers.</p>
+				<link rel="enclosure" type="audio/mpeg" length="10836252" href="http://alphajuliet.com/music/LuminousSandsOfTime.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Merge</title>
+		<id>tag:alphajuliet.com,2007-07-30:Merge</id>
+		<updated>2007-07-30T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>I've merged <em>Talk to the Wall</em> into <em>Particles</em> to make a longer and more complete set of music, given that most of the tracks were created and reworked around the same time.</p>
+			</div>
+		</content>
+	</entry>
+
+	<entry>
+		<title>Disuse</title>
+		<id>tag:alphajuliet.com,2007-07-27:Disuse</id>
+		<updated>2007-07-27T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>I've added yet another track from the archives, called <em>Disuse</em>, from the <em>Derivative</em> collection, done in 1999 while living in Manchester. Moody. Think orange-coloured streetlights reflecting in a late night drizzle.</p>
+			<link rel="enclosure" type="audio/mpeg" length="6624736" href="http://alphajuliet.com/music/Disuse.mp3"/>
+			</div>
+		</content>
+	</entry>
+	
+	
+	<entry>
+		<title>Site update</title>
+		<id>tag:alphajuliet.com,2007-07-27:SiteUpdate</id>
+		<updated>2007-07-27T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>I've updated the site with a new cheesy logo and a white colour scheme.  I've also added an auto-discovery Atom feed, plus a graphical link for the manual types.  With updated jQuery libraries, I live in hope that it may just work in most browsers.</p>
+			</div>
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Particles</title>
+		<id>tag:alphajuliet.com,2007-07-26:Particles</id>
+		<updated>2007-07-26T00:02:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>I've grouped the newer tracks under the album name <em>Particles</em>.  There's not much of a common thread there yet -- it ranges from up-tempo tracks like <em>Servolex</em> to the deep ambience of <em>Ilmeg</em>. But that's ok.</p>
+			</div>
+		</content>
+		<link rel="enclosure" type="image/jpeg" href="http://drdraardvark.com/images/particles.jpg"/>
+	</entry>
+	
+	<entry>
+		<title>Servolex</title>
+		<id>tag:alphajuliet.com,2007-07-26:Servolex</id>
+		<updated>2007-07-26T00:01:00Z</updated>
+		<link type="application/xhtml+xml" href="http://drdraardvark.com/"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Here's a new breaks track called Servolex. It's got guitars, man.  After several goes at mastering it, I'm pretty happy with it.</p>
+			</div>
+		</content>
+		<link rel="enclosure" type="audio/mpeg" length="5993580" href="http://alphajuliet.com/music/Servolex.mp3"/>
+	</entry>
+	
+	<entry>
+		<title>Potential</title>
+		<id>tag:alphajuliet.com,2007-07-26:Potential</id>
+		<updated>2007-07-26T00:00:00Z</updated>
+		<link type="application/xhtml+xml" href="http://alphajuliet.com/#music"/>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>An 'intelligent d&amp;b' track, reworked to give it some more edge.  Still not 100% happy with it, but I like it more than the older version.</p>
+			</div>
+		</content>
+		<link rel="enclosure" type="audio/mpeg" length="6672764" href="http://alphajuliet.com/music/Potential.mp3"/>
+	</entry>
+	
+</feed>
